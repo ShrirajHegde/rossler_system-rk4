@@ -29,4 +29,4 @@ Numerically Solving and Visualising [Rössler system](https://en.wikipedia.org/w
 
 * ## Generating Animated MP4:
   * Run ```generate_animated_video.sh``` (requires ffmpeg)
-  * The [Video]( rossler_attractor.mp4) will be generated in the same folder
+  * The [Video](\ rossler_attractor.mp4) will be generated in the same folder
