@@ -4,9 +4,9 @@ step=0.003333*4 #h variable in FORTRAN program
 speed=5 #animation speed (no of points to plot every loop)
 
 ######### uncomment following lines to generate GIF animation ####################
-set terminal gif animate medium size 500,500
-set output 'rossler_attractor.gif' 
-speed = 35
+#set terminal gif animate medium size 500,500
+#set output 'rossler_attractor.gif' 
+#speed = 35
 
 unset colorbox
 unset border ; #uncomment to hide borders (axis lines)
