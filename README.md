@@ -24,7 +24,7 @@ Numerically Solving and Visualising [Rössler system](https://en.wikipedia.org/w
 
   * Uncomment lines 7 and 8 in [plot_rossler_attractor_dat.gnu](plot_rossler_attractor_dat.gnu)
   * Run run `gnuplot plot_rossler_attractor_dat.gnu`
-  * The [GIF](Rossler_attractor.gif) will be generated in the same folder
+  * The [GIF](rossler_attractor.gif) will be generated in the same folder
 
 
 * ## Generating Animated MP4:
