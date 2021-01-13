@@ -14,7 +14,7 @@ Numerically Solving and Visualising [Rössler system](https://en.wikipedia.org/w
 # Usage:
 * ## Visualization
   * Compile the fortran program with 
-  ```gfortran Rossler_attractor.f90```
+  ```gfortran rossler_attractor.f90```
   * Run the compiled program with `./a.out` or `./a.exe`
   * Now, the data file for plotting should be in the folder, run `gnuplot plot_rossler_attractor_dat.gnu` to plot in Gnuplot
   * Use mouse to rotate and view from different angles
